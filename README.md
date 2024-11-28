@@ -6,7 +6,7 @@
   - intake search
   - processing function
   - processing loop over all models
-  - combine base variable to with CDO (e.g. terrestrial carbon = cVeg + cSoil)
+  - combine base variables with CDO (e.g. terrestrial carbon = cVeg + cSoil)
   - Some CDO error investigation
   - First plots of the processed data
 - AC-maps
