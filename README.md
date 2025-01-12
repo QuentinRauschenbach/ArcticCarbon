@@ -19,4 +19,4 @@
   - Processing functions to calculate gridareas using CDO for land and ocean vars
 
 ## Flowchart of AC-data-processing
-![Flowchart.png]
+![Flowchart](https://github.com/QuentinRauschenbach/ArcticCarbon/blob/master/code/Flowchart.png)
