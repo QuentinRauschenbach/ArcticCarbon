@@ -18,3 +18,5 @@
   - adapted code from the UHH SIA CMIP6 product
   - Processing functions to calculate gridareas using CDO for land and ocean vars
 
+## Flowchart of AC-data-processing
+![Flowchart.png]
