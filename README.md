@@ -1,7 +1,7 @@
 ## Notebook Overview
 - AC-data-processing
   - calculate annual mean or sum from CMIP6 RAW data on Levante
-  - calculate spacial sum
+  - calculate spatial sum
   - apply regional masks
 - AC-Combine-vars-CDO
   - Calculate (using CDO) additional variables by adding or subtracting the base variables processed in the previous script
