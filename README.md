@@ -1,5 +1,5 @@
 # Arctic Carbon
-This repository contains processing and plotting code for 'common carbon variables' from CMIP6 model outputs to provide the basis of an analysis of the Arctic Carbon budget done at UHH.
+This repository contains processing and plotting code for 'common carbon variables' from CMIP6 model outputs to provide the basis of an analysis of the Arctic carbon budget done at UHH in cooperation with UBA.
 
 ## Notebook Overview
 - AC-data-processing
