@@ -1,3 +1,6 @@
+# Arctic Carbon
+This repository contains processing and plotting code for 'common carbon variables' from CMIP6 model outputs to provide the basis of an analysis of the Arctic Carbon budget done at UHH.
+
 ## Notebook Overview
 - AC-data-processing
   - calculate annual mean or sum from CMIP6 RAW data on Levante
